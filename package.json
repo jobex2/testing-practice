@@ -1,0 +1,26 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobex2/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobex2/testing-practice/issues"
+  },
+  "homepage": "https://github.com/jobex2/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.17.10",
+    "jest": "^28.0.3"
+  }
+}
